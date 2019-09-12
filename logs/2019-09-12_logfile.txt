@@ -1,0 +1,15 @@
+2019-09-12 13:45:02.6912 INFO Here is info message from our values controller.
+2019-09-12 13:45:02.7164 DEBUG Here is debug message from our values controller.
+2019-09-12 13:45:02.7164 WARN Here is warn message from our values controller.
+2019-09-12 13:45:02.7164 ERROR Here is error message from our values controller.
+2019-09-12 14:42:49.6562 INFO Here is info message from our values controller.
+2019-09-12 14:42:49.6818 DEBUG Here is debug message from our values controller.
+2019-09-12 14:42:49.6818 WARN Here is warn message from our values controller.
+2019-09-12 14:42:49.6818 ERROR Here is error message from our values controller.
+2019-09-12 17:22:46.5332 INFO Returned all members from database
+2019-09-12 17:26:55.3224 INFO Returned all members from database
+2019-09-12 17:27:31.2786 INFO Returned all members from database
+2019-09-12 17:28:38.3166 INFO Returned all members from database
+2019-09-12 17:30:54.1699 INFO Returned all members from database
+2019-09-12 17:32:11.9643 INFO Returned all members from database
+2019-09-12 17:32:19.6812 ERROR Something went wrong inset GetAllMembers action:test
